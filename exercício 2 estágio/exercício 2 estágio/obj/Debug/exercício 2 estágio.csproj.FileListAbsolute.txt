@@ -1,0 +1,11 @@
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\bin\Debug\exercício 2 estágio.exe.config
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\bin\Debug\exercício 2 estágio.exe
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\bin\Debug\exercício 2 estágio.pdb
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício_2_estágio.Form1.resources
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício_2_estágio.Properties.Resources.resources
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.exe
+C:\Users\gusta\source\repos\exercício 2 estágio\exercício 2 estágio\obj\Debug\exercício 2 estágio.pdb
